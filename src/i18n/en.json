@@ -1,0 +1,77 @@
+{
+  "navigation": {
+    "dashboard": "Home",
+    "workouts": "Workouts",
+    "statistics": "Stats",
+    "settings": "Settings"
+  },
+  "common": {
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "about": "About",
+    "close": "Close",
+    "confirmDelete": "Delete workout?",
+    "confirmDeleteMessage": "This action cannot be undone.",
+    "empty": "Nothing here yet.",
+    "loading": "Loading..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "todaySummary": "Today's Summary",
+    "weeklyProgress": "Weekly Progress",
+    "monthlyProgress": "Monthly Progress",
+    "steps": "Steps",
+    "calories": "Calories",
+    "activeMinutes": "Active Minutes",
+    "weeklyCalories": "Calories (Weekly)",
+    "monthlyCalories": "Calories (Monthly)",
+    "weeklyDuration": "Duration (Weekly)",
+    "monthlyDuration": "Duration (Monthly)"
+  },
+  "workouts": {
+    "title": "Workouts",
+    "addWorkout": "Add Workout",
+    "editWorkout": "Edit Workout",
+    "name": "Workout name",
+    "duration": "Duration (minutes)",
+    "calories": "Calories burned",
+    "date": "Date",
+    "noWorkouts": "Track your first workout to get started!",
+    "durationShort": "Short",
+    "durationMedium": "Medium",
+    "durationLong": "Long"
+  },
+  "statistics": {
+    "title": "Statistics",
+    "weeklyTitle": "This Week",
+    "monthlyTitle": "This Month",
+    "calories": "Calories",
+    "duration": "Duration",
+    "empty": "Add workouts to unlock your statistics."
+  },
+  "settings": {
+    "title": "Settings",
+    "languageLabel": "Choose language",
+    "themeLabel": "Appearance",
+    "aboutMessage": "Created by Salama Malek, Full-Stack Developer — Passionate about clean UI and scalable systems.",
+    "offlineNotice": "Data stays on this device."
+  },
+  "forms": {
+    "namePlaceholder": "e.g. Morning Run",
+    "durationPlaceholder": "45",
+    "caloriesPlaceholder": "300",
+    "datePlaceholder": "Select date"
+  },
+  "alerts": {
+    "fillAllFields": "Please fill in all fields.",
+    "invalidNumber": "Duration and calories must be numbers.",
+    "invalidDate": "Please choose a valid date."
+  }
+}
