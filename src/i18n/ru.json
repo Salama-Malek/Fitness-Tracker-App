@@ -1,0 +1,77 @@
+{
+  "navigation": {
+    "dashboard": "Главная",
+    "workouts": "Тренировки",
+    "statistics": "Статистика",
+    "settings": "Настройки"
+  },
+  "common": {
+    "add": "Добавить",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "language": "Язык",
+    "theme": "Тема",
+    "light": "Светлая",
+    "dark": "Тёмная",
+    "about": "О приложении",
+    "close": "Закрыть",
+    "confirmDelete": "Удалить тренировку?",
+    "confirmDeleteMessage": "Это действие нельзя отменить.",
+    "empty": "Пока нет данных.",
+    "loading": "Загрузка..."
+  },
+  "dashboard": {
+    "title": "Панель",
+    "todaySummary": "Сводка за сегодня",
+    "weeklyProgress": "Прогресс за неделю",
+    "monthlyProgress": "Прогресс за месяц",
+    "steps": "Шаги",
+    "calories": "Калории",
+    "activeMinutes": "Активные минуты",
+    "weeklyCalories": "Калории (неделя)",
+    "monthlyCalories": "Калории (месяц)",
+    "weeklyDuration": "Длительность (неделя)",
+    "monthlyDuration": "Длительность (месяц)"
+  },
+  "workouts": {
+    "title": "Тренировки",
+    "addWorkout": "Новая тренировка",
+    "editWorkout": "Редактировать тренировку",
+    "name": "Название тренировки",
+    "duration": "Длительность (мин)",
+    "calories": "Сожжённые калории",
+    "date": "Дата",
+    "noWorkouts": "Добавьте первую тренировку, чтобы начать!",
+    "durationShort": "Короткая",
+    "durationMedium": "Средняя",
+    "durationLong": "Длинная"
+  },
+  "statistics": {
+    "title": "Статистика",
+    "weeklyTitle": "Эта неделя",
+    "monthlyTitle": "Этот месяц",
+    "calories": "Калории",
+    "duration": "Длительность",
+    "empty": "Добавьте тренировки, чтобы увидеть статистику."
+  },
+  "settings": {
+    "title": "Настройки",
+    "languageLabel": "Выберите язык",
+    "themeLabel": "Оформление",
+    "aboutMessage": "Создано Саламой Малеком, Full-Stack разработчиком — приверженцем чистого UI и масштабируемых систем.",
+    "offlineNotice": "Данные сохраняются только на этом устройстве."
+  },
+  "forms": {
+    "namePlaceholder": "например, Утренняя пробежка",
+    "durationPlaceholder": "45",
+    "caloriesPlaceholder": "300",
+    "datePlaceholder": "Выберите дату"
+  },
+  "alerts": {
+    "fillAllFields": "Пожалуйста, заполните все поля.",
+    "invalidNumber": "Длительность и калории должны быть числами.",
+    "invalidDate": "Выберите корректную дату."
+  }
+}

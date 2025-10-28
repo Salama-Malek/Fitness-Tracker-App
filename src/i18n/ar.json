@@ -1,0 +1,77 @@
+{
+  "navigation": {
+    "dashboard": "الرئيسية",
+    "workouts": "التمارين",
+    "statistics": "الإحصاءات",
+    "settings": "الإعدادات"
+  },
+  "common": {
+    "add": "إضافة",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "داكن",
+    "about": "حول التطبيق",
+    "close": "إغلاق",
+    "confirmDelete": "حذف التمرين؟",
+    "confirmDeleteMessage": "لا يمكن التراجع عن هذه العملية.",
+    "empty": "لا توجد بيانات حتى الآن.",
+    "loading": "جارٍ التحميل..."
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "todaySummary": "ملخص اليوم",
+    "weeklyProgress": "التقدم الأسبوعي",
+    "monthlyProgress": "التقدم الشهري",
+    "steps": "الخطوات",
+    "calories": "السعرات",
+    "activeMinutes": "الدقائق النشطة",
+    "weeklyCalories": "السعرات (أسبوعي)",
+    "monthlyCalories": "السعرات (شهري)",
+    "weeklyDuration": "المدة (أسبوعي)",
+    "monthlyDuration": "المدة (شهري)"
+  },
+  "workouts": {
+    "title": "التمارين",
+    "addWorkout": "إضافة تمرين",
+    "editWorkout": "تعديل التمرين",
+    "name": "اسم التمرين",
+    "duration": "المدة (بالدقائق)",
+    "calories": "السعرات المحروقة",
+    "date": "التاريخ",
+    "noWorkouts": "ابدأ بتسجيل تمرينك الأول!",
+    "durationShort": "قصير",
+    "durationMedium": "متوسط",
+    "durationLong": "طويل"
+  },
+  "statistics": {
+    "title": "الإحصاءات",
+    "weeklyTitle": "هذا الأسبوع",
+    "monthlyTitle": "هذا الشهر",
+    "calories": "السعرات",
+    "duration": "المدة",
+    "empty": "أضف تمارين لعرض إحصاءاتك."
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "languageLabel": "اختر اللغة",
+    "themeLabel": "المظهر",
+    "aboutMessage": "من تصميم سلامة مالك، مطور متكامل — شغوف بالواجهات الأنيقة والأنظمة القابلة للتوسع.",
+    "offlineNotice": "تبقى بياناتك على هذا الجهاز."
+  },
+  "forms": {
+    "namePlaceholder": "مثال: جري صباحي",
+    "durationPlaceholder": "٤٥",
+    "caloriesPlaceholder": "٣٠٠",
+    "datePlaceholder": "اختر التاريخ"
+  },
+  "alerts": {
+    "fillAllFields": "يرجى تعبئة جميع الحقول.",
+    "invalidNumber": "يجب أن تكون المدة والسعرات أرقاماً.",
+    "invalidDate": "يرجى اختيار تاريخ صالح."
+  }
+}
