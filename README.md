@@ -76,3 +76,7 @@ No environment variables are required — the app runs entirely with local, on-d
     ├── styles/                # Theme definitions (light/dark palettes, fonts)
     └── i18n/                  # i18next setup and en/ar/ru translation files
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
